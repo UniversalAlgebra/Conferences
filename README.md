@@ -1,7 +1,6 @@
 # Conferences
 
-A list of conferences that seem interesting (to me), mostly in algebra, logic,
-and computer science.
+Conferences in algebra, logic, and computer science.
 
 ## 2014
 + [Vienna Summer of Logic](http://vsl2014.at/) Vienna, July 9--24.
