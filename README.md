@@ -28,3 +28,4 @@ Conferences in algebra, logic, and computer science.
 + [COMS: Algebra](http://www.conference-service.com/conferences/algebra.html)
 + [COMS: Mathematical Logic](http://www.conference-service.com/conferences/logic.html)
 + [Logic Related Conferences](http://www2.informatik.hu-berlin.de/~lics/logic-confs/index.html)
++ [A list of conferences in theoretical computer science](http://cstheory.stackexchange.com/questions/7900/list-of-tcs-conferences-and-workshops)
