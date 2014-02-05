@@ -16,10 +16,11 @@ Conferences in algebra, logic, and computer science.
 + [Algebras and Clones fest](http://www.karlin.mff.cuni.cz/~alc2014/) Prague, June 30--July 3.
 + [Computability in Europe](http://cie2014.inf.elte.hu/) Budapest, June 23--27.
 + [88th Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213618) Warsaw, June 19--22.
-+ [Scala Days](http://scaladays.org/) Berlin, June 16--18.
++ [Scala Days](http://scaladays.org/) Berlin, June 16--18.  
 + [Algebra and Mathematical Logic: Theory and Applications](http://www.kpfu.ru/main_page?p_sub=25931) Kazan, Russia, June 2--6.
 + [Association for Symbolic Logic North American Meeting](http://www.aslonline.org/asl_meetings.php) Boulder, May 19--22.
 + [Horn formulas, directed hypergraphs, lattices and closure systems](http://www.dagstuhl.de/14201) Dagstuhl, Germany, May 11--16.
++ [Midlands Grad School in Foundations of CS](http://www.cs.nott.ac.uk/~txa/mgs.2014/) Nottingham, UK, April 22-26.   
 + [Ichia Group Theory](http://www.dipmat.unisa.it/ischiagrouptheory/) Ichia, Italy, April 1--5. 
 + [87th Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213625) Linz, Austria, February 7--9.
 
