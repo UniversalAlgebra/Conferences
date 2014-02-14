@@ -20,6 +20,8 @@ Conferences in algebra, logic, and computer science.
 + [Algebra and Mathematical Logic: Theory and Applications](http://www.kpfu.ru/main_page?p_sub=25931) Kazan, Russia, June 2--6.
 + [Association for Symbolic Logic North American Meeting](http://www.aslonline.org/asl_meetings.php) Boulder, May 19--22.
 + [Horn formulas, directed hypergraphs, lattices and closure systems](http://www.dagstuhl.de/14201) Dagstuhl, Germany, May 11--16.
++ [32nd Ohio State-Denison Math Conference](http://www.math.osu.edu/conferences/denison32)
+Columbus, Ohio, May 9--11.  
 + [Midlands Grad School in Foundations of CS](http://www.cs.nott.ac.uk/~txa/mgs.2014/) Nottingham, UK, April 22-26.   
 + [Ichia Group Theory](http://www.dipmat.unisa.it/ischiagrouptheory/) Ichia, Italy, April 1--5. 
 + [87th Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213625) Linz, Austria, February 7--9.
