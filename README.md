@@ -22,7 +22,7 @@ Conferences in algebra, logic, and computer science.
 + [Association for Symbolic Logic North American Meeting](http://www.aslonline.org/asl_meetings.php) Boulder, US May 19--22.  
 + [Horn formulas, directed hypergraphs, lattices and closure systems](http://www.dagstuhl.de/14201) Dagstuhl, DE May 11--16.  
 + [32nd Ohio State-Denison Math Conference](http://www.math.osu.edu/conferences/denison32) Columbus, US May 9--11.  
-+ [14th International Conference on Relational and Algebraic Methods in Computer Science](http://math.chapman.edu/ramics2014/) Marienstatt im Westerwald, DE April 27-- May 1.  
++ [14th Int'l Conf on Relational and Algebraic Methods in Comp Sci](http://math.chapman.edu/ramics2014/) Marienstatt im Westerwald, DE April 27-- May 1.  
 + [Midlands Grad School in Foundations of CS](http://www.cs.nott.ac.uk/~txa/mgs.2014/) Nottingham, GB April 22--26.   
 + [Ichia Group Theory](http://www.dipmat.unisa.it/ischiagrouptheory/) Ichia, IT April 1--5.  
 + [87th Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213625) Linz, AT February 7--9.  
