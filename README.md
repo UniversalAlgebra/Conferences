@@ -2,6 +2,15 @@
 
 Conferences in algebra, logic, and computer science.
 
+## 2015
+
++ [Logic in Computer Science](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
++ [Topology, Algebra, and Categories in Logic](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, Italy June 21--26.  
++ [Topology, Algebra, and Categories in Logic](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, Italy June 15--19.  
++ [JAIST Logic Workshop: Constructivism and Computability](http://www.jaist.ac.jp/is/labs/ishihara-lab/jlws2015/) Kanazawa, Japan March 2--6.  
+
+
+
 ## 2014
 + [16th Latin American Symposium on Mathematical Logic](http://www-2.dc.uba.ar/congresos/slalm2014/) Buenos Aires, AR July 28--August 1.  
 + [Vienna Summer of Logic](http://vsl2014.at/) Vienna, AT July 9--24.  
