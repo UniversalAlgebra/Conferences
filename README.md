@@ -5,7 +5,7 @@ Conferences in algebra, logic, and computer science.
 ## 2015
 
 + [Logic in Computer Science](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
-+ [CALCO: 6th Conference on Algebra and Coalgebra in Computer Science](http://coalg.org/calco15/) Nijmegen, Netherlands June 24--26.  
++ [Algebra and Coalgebra in Computer Science](http://coalg.org/calco15/) Nijmegen, Netherlands June 24--26.  
 + [Mathematical Foundations of Programming Semantics](http://events.cs.bham.ac.uk/mfps31/?lang=en) Nijmegen, Netherlands June 22--25.  
 + [Topology, Algebra, and Categories in Logic](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, Italy June 21--26.  
 + [Topology, Algebra, and Categories in Logic](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, Italy June 15--19.  
