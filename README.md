@@ -3,6 +3,7 @@
 Conferences in algebra, logic, and computer science.
 
 ## 2015
++[Continuity, Computability, Constructivity](http://www.cs.swan.ac.uk/ccc2015/) Schloss Aspenstein (near Munich), Sep 14--18.  
 + [53rd Summer School: General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Rep, Aug 29--Sep 4.  
 + [Intl Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, Canada, Aug 31--Sep 2.  
 + [Workshop on Logic, Language and Information](http://www.indiana.edu/~iulg/wollic/index.htm) Bloomington, USA, July 20--23.  
