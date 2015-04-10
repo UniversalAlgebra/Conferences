@@ -2,6 +2,10 @@
 
 Conferences in algebra, logic, and computer science.
 
+
+## 2016
++ [Symposium on Logical Foundations Of Computer Science](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
+
 ## 2015
 + [Continuity, Computability, Constructivity](http://www.cs.swan.ac.uk/ccc2015/) Schloss Aspenstein (near Munich), Sep 14--18.  
 + [53rd Summer School: General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Rep, Aug 29--Sep 4.  
