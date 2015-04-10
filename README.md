@@ -3,8 +3,8 @@
 Conferences in algebra, logic, and computer science.
 
 ## 2015
-+ [53rd Summer School on General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Republic, August 29--September 4.  
-+ [International Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, Canada, August 31--September 2.  
++ [53rd Summer School: General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Rep, Aug 29--Sep 4.  
++ [Intl Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, Canada, Aug 31--Sep 2.  
 + [Workshop on Logic, Language and Information](http://www.indiana.edu/~iulg/wollic/index.htm) Bloomington, USA, July 20--23.  
 + [Logic in Computer Science (LICS)](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
 + [Typed Lambda Calculi and Applications (TLCA)](http://rdp15.mimuw.edu.pl/index.php?site=tlca) Warsaw, Poland, July 1--July 3.  
