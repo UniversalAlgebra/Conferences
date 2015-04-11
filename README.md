@@ -4,18 +4,18 @@ Conferences in algebra, logic, and computer science.
 
 
 ## 2016
-+ [Symposium on Logical Foundations Of Computer Science](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
++ [Symposium on Logical Foundations Of Comp Sci](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
 
 ## 2015
-+ [Intl Conf on Relational & Algebraic Methods in Computer Science](http://ramics2015.di.uminho.pt/)
++ [Intl Conf on Relational & Algebraic Methods in Comp Sci](http://ramics2015.di.uminho.pt/)
 Braga, Portugal, Sep 28--Oct 02.  
 + [Continuity, Computability, Constructivity](http://www.cs.swan.ac.uk/ccc2015/) Schloss Aspenstein (near Munich), Sep 14--18.  
 + [53rd Summer School: General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Rep, Aug 29--Sep 4.  
 + [Intl Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, Canada, Aug 31--Sep 2.  
 + [Workshop on Logic, Language and Information](http://www.indiana.edu/~iulg/wollic/index.htm) Bloomington, USA, July 20--23.  
-+ [Logic in Computer Science (LICS)](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
++ [Logic in Comp Sci (LICS)](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
 + [Typed Lambda Calculi and Applications (TLCA)](http://rdp15.mimuw.edu.pl/index.php?site=tlca) Warsaw, Poland, July 1--July 3.  
-+ [Algebra and Coalgebra in Computer Science](http://coalg.org/calco15/) Nijmegen, Netherlands June 24--26.  
++ [Algebra and Coalgebra in Comp Sci](http://coalg.org/calco15/) Nijmegen, Netherlands June 24--26.  
 + [Mathematical Foundations of Programming Semantics](http://events.cs.bham.ac.uk/mfps31/?lang=en) Nijmegen, Netherlands June 22--25.  
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, Italy June 21--26.  
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, Italy June 15--19.  
