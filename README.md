@@ -7,6 +7,8 @@ Conferences in algebra, logic, and computer science.
 + [Symposium on Logical Foundations Of Computer Science](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
 
 ## 2015
++ [Intl Conf on Relational & Algebraic Methods in Computer Science](http://ramics2015.di.uminho.pt/)
+Braga, Portugal, Sep 28--Oct 02.  
 + [Continuity, Computability, Constructivity](http://www.cs.swan.ac.uk/ccc2015/) Schloss Aspenstein (near Munich), Sep 14--18.  
 + [53rd Summer School: General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Rep, Aug 29--Sep 4.  
 + [Intl Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, Canada, Aug 31--Sep 2.  
@@ -18,10 +20,10 @@ Conferences in algebra, logic, and computer science.
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, Italy June 21--26.  
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, Italy June 15--19.  
 + [BLAST 2015](http://math.unt.edu/BLAST2015@UNT) Denton, TX, USA, June 8-12, 2015.  
-+ [90th Workshop on General Algebra](http://sites.dmi.uns.ac.rs/aaa90/) Novi Sad, Serbia, June 4--June 7.  
++ [AAA90: Workshop on General Algebra](http://sites.dmi.uns.ac.rs/aaa90/) Novi Sad, Serbia, June 4--June 7.  
 + [Open Problems in Universal Algebra](http://www.math.vanderbilt.edu/~moorm10/shanks/) Nashville, USA, May 28--June 1.  
 + [JAIST Logic Workshop: Constructivism and Computability](http://www.jaist.ac.jp/is/labs/ishihara-lab/jlws2015/) Kanazawa, Japan March 2--6.  
-+ [90th Workshop on General Algebra](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_mathematik/institute/algebra/aaa89) Dresden, Germany, February 26--March 01.
++ [AAA89: Workshop on General Algebra](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_mathematik_und_naturwissenschaften/fachrichtung_mathematik/institute/algebra/aaa89) Dresden, Germany, February 26--March 01.
 
 
 ## 2014
@@ -38,7 +40,7 @@ Conferences in algebra, logic, and computer science.
 + [Algebra, Geometry and Computation](http://www.win.tue.nl/~hansc/agc2014/index.html) Eindhoven, NL July 2--4.  
 + [Algebras and Clones fest](http://www.karlin.mff.cuni.cz/~alc2014/) Prague, CZ June 30--July 3.  
 + [Computability in Europe](http://cie2014.inf.elte.hu/) Budapest, HU June 23--27.  
-+ [88th Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213618) Warsaw, PL June 19--22.  
++ [AAA88: Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213618) Warsaw, PL June 19--22.  
 + [Mathematical Foundations of Programming Semantics](http://www.cs.cornell.edu/Conferences/MFPS30/) Ithaca, USA June 12--15.  
 + [Algebra and Mathematical Logic: Theory and Applications](http://www.kpfu.ru/main_page?p_sub=25931) Kazan, RU June 2--6.  
 + [Association for Symbolic Logic North American Meeting](http://www.aslonline.org/asl_meetings.php) Boulder, US May 19--22.  
@@ -47,7 +49,7 @@ Conferences in algebra, logic, and computer science.
 + [14th Int'l Conf on Relational and Algebraic Methods in CS](http://math.chapman.edu/ramics2014/) Marienstatt im Westerwald, DE April 27-- May 1.  
 + [Midlands Grad School in Foundations of CS](http://www.cs.nott.ac.uk/~txa/mgs.2014/) Nottingham, GB April 22--26.   
 + [Ichia Group Theory](http://www.dipmat.unisa.it/ischiagrouptheory/) Ichia, IT April 1--5.  
-+ [87th Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213625) Linz, AT February 7--9.  
++ [AAA87: Workshop on General Algebra](http://www.jku.at/algebra/content/e176230/e176557/e213625) Linz, AT February 7--9.  
 
 ## Other Conference Lists
 + [General Algebra Conferences](http://spot.colorado.edu/~kearnes/conf.html)
