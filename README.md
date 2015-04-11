@@ -15,6 +15,7 @@ Braga, Portugal, Sep 28--Oct 02.
 + [Workshop on Logic, Language and Information](http://www.indiana.edu/~iulg/wollic/index.htm) Bloomington, USA, July 20--23.  
 + [Logic in Comp Sci (LICS)](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
 + [Typed Lambda Calculi and Applications (TLCA)](http://rdp15.mimuw.edu.pl/index.php?site=tlca) Warsaw, Poland, July 1--July 3.  
++ [Workshop on Homotopy Type Theory](http://hott-uf.gforge.inria.fr/) Warsaw, Poland, June 29--30.  
 + [Algebra and Coalgebra in Comp Sci](http://coalg.org/calco15/) Nijmegen, Netherlands June 24--26.  
 + [Mathematical Foundations of Programming Semantics](http://events.cs.bham.ac.uk/mfps31/?lang=en) Nijmegen, Netherlands June 22--25.  
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, Italy June 21--26.  
