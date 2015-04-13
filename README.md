@@ -20,7 +20,7 @@ Braga, Portugal, Sep 28--Oct 02.
 + [Mathematical Foundations of Programming Semantics](http://events.cs.bham.ac.uk/mfps31/?lang=en) Nijmegen, Netherlands June 22--25.  
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, Italy June 21--26.  
 + [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, Italy June 15--19.  
-+ [BLAST 2015](http://math.unt.edu/BLAST2015@UNT) Denton, TX, USA, June 8-12, 2015.  
++ [BLAST 2015](http://math.unt.edu/research/conferences/blast2015unt) Denton, TX, USA, June 8-12, 2015.  
 + [AAA90: Workshop on General Algebra](http://sites.dmi.uns.ac.rs/aaa90/) Novi Sad, Serbia, June 4--June 7.  
 + [Open Problems in Universal Algebra](http://www.math.vanderbilt.edu/~moorm10/shanks/) Nashville, USA, May 28--June 1.  
 + [JAIST Logic Workshop: Constructivism and Computability](http://www.jaist.ac.jp/is/labs/ishihara-lab/jlws2015/) Kanazawa, Japan March 2--6.  
