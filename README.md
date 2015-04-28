@@ -12,6 +12,7 @@ Braga, Portugal, Sep 28--Oct 02.
 + [Continuity, Computability, Constructivity](http://www.cs.swan.ac.uk/ccc2015/) Schloss Aspenstein (near Munich), Sep 14--18.  
 + [53rd Summer School: General Algebra & Ordered Sets](http://www.karlin.mff.cuni.cz/~ssaos/) Srní, Czech Rep, Aug 29--Sep 4.  
 + [Intl Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, Canada, Aug 31--Sep 2.  
++ [Domains XII](http://booleconferences.ucc.ie/gbmsc2015/domainsxii) Cork, Ireland, Aug 25--28.  
 + [Workshop on Logic, Language and Information](http://www.indiana.edu/~iulg/wollic/index.htm) Bloomington, USA, July 20--23.  
 + [Logic in Comp Sci (LICS)](http://lics.rwth-aachen.de/lics15/) Kyoto, Japan July 6--10.  
 + [Typed Lambda Calculi and Applications (TLCA)](http://rdp15.mimuw.edu.pl/index.php?site=tlca) Warsaw, Poland, July 1--July 3.  
