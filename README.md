@@ -16,8 +16,8 @@ the websites listed at the [bottom of this page](#other-conference-lists)).
 + [AMS Special Session Algebraic Logic](http://www.ams.org/meetings/sectional/2235_program_ss1.html#title) Denver, USA, Oct 8--9.  
 + [ICFP: International Conference on Functional Programming](http://conf.researchr.org/home/icfp-2016) Nara, JP, Sep 18--24.  
 + [25th EACSL Conf on Computer Science Logic](http://csl16.lif.univ-mrs.fr/) Marseille, FR, Aug 29--Sep 1.  
-+ [ESSLLI: European Summer School: Logic, Language, and Information](http://esslli2016.unibz.it/) Free Univ. Bozen-Bolzano, IT, Aug 15--26.  
-+ [ASL Summer Meeting--Logic Colloquium](http://www.lc2016.leeds.ac.uk/home.html) Univ. Leeds, UK, Jul 31--Aug 6.  
++ [ESSLLI: European Summer School: Logic, Language, and Information](http://esslli2016.unibz.it/) Free Uni Bozen-Bolzano, IT, Aug 15--26.  
++ [ASL Summer Meeting--Logic Colloquium](http://www.lc2016.leeds.ac.uk/home.html) Uni Leeds, UK, Jul 31--Aug 6.  
 + [ISSAC: International Symposium on Symbolic and Algebraic Computation](http://www.issac-symposium.org/2016/) Waterloo, CA, Jul 19--22.  
 + [ICALP: International Colloqium on Automata, Languages, and Programming](http://www.easyconferences.eu/icalp2016/index.html) Rome, IT, Jul 11--15.  
 + [CiE: Computability in Europe](https://lipn.univ-paris13.fr/CIE2016/index.php) Paris, FR, Jun 27--Jul 1.  
@@ -29,6 +29,7 @@ the websites listed at the [bottom of this page](#other-conference-lists)).
 + [TYPES: 22nd International Conference on Types for Proofs & Programs](http://www.types2016.uns.ac.rs/) Novi Sad, Serbia, May 23--26.  
 + [ASL North American Annual Meeting](http://asl2016.logic.uconn.edu/) Storrs, CT, USA, May 23--26.  
 + [Homotopy Type Theory & Univalent Foundations Workshop](http://www.fields.utoronto.ca/programs/scientific/15-16/homotopy-type/) Fields Inst., May 16--20.  
++ [Midlands Grad School in Foundations of Comp Sci](http://www.cs.nott.ac.uk/MGS/) Birmingham, UK, Apr 11--15.  
 + [ASL Winter Meeting](http://www.apaonline.org/events/event_details.asp?id=322904) Chicago, USA, Mar 2--5.  
 + [STACS: 33rd International Symposium on Theoretical Aspects of Computer Science](http://www.stacs-conf.org/) Orléans, FR, Feb 17--20.  
 + [AAA: 91st Workshop on General Algebra](http://ameql.math.muni.cz/en/AAA91), Brno, CZ, Feb 5--7.  
