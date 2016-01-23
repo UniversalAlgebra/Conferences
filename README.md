@@ -28,8 +28,7 @@ Links to these are found at the [bottom of this page](#other-conference-lists).
 + [TYPES: 22nd Int'l Conf on Types for Proofs & Programs](http://www.types2016.uns.ac.rs/), Novi Sad, Serbia, May 23--26.  
 + [HoTT & Univalent Foundations Workshop](http://www.fields.utoronto.ca/programs/scientific/15-16/homotopy-type/), Fields Inst., May 16--20.  
 + [ASL North American Annual Meeting](http://asl2016.logic.uconn.edu/), Storrs, CT, USA, May 23--26.  
-Apr 1--Jun 30
-+ [ASL Winter Meeting](http://www.apaonline.org/events/event_details.asp?id=322904), Chicago, USA, Mar 2--5.
++ [ASL Winter Meeting](http://www.apaonline.org/events/event_details.asp?id=322904), Chicago, USA, Mar 2--5.  
 + [STACS: 33rd International Symposium on Theoretical Aspects of Computer Science](http://www.stacs-conf.org/) Orléans, FR, Feb 17--20.  
 + [LFCS: Symposium on Logical Foundations Of Comp Sci](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
 
