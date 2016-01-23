@@ -9,26 +9,26 @@ Broader and more comprehensive lists can be found elsewhere.
 Links to these are found at the [bottom of this page](#other-conference-lists).
 
 ## 2017
-+ [Mathematical Logic: Proof Theory, Constructive Mathematics](http://www.mfo.de/www/schedule/2017/all), Oberwolfach, DE, Nov 5--11.
-+ [Formal Structures for Computation and Deduction (FSCD)](http://fscdconference.org/), Oxford, UK, Sep 3--6.
++ [Mathematical Logic: Proof Theory, Constructive Mathematics](http://www.mfo.de/www/schedule/2017/all) Oberwolfach, DE, Nov 5--11.
++ [Formal Structures for Computation and Deduction (FSCD)](http://fscdconference.org/) Oxford, UK, Sep 3--6.
 
 ## 2016
-+ [AMS Special Session Algebraic Logic](http://www.ams.org/meetings/sectional/2235_program_ss1.html#title), Denver, USA, Oct 8--9.  
-+ [ICFP: International Conference on Functional Programming](http://conf.researchr.org/home/icfp-2016), Nara, JP, Sep 18--24.  
-+ [ESSLLI: European Summer School: Logic, Language, and Information](http://esslli2016.unibz.it/), Free Univ. Bozen-Bolzano, IT, Aug 15--26.  
-+ [ASL Summer Meeting--Logic Colloquium](http://www.lc2016.leeds.ac.uk/home.html), Univ. Leeds, UK, Jul 31--Aug 6.  
-+ [25th EACSL Conf on Computer Science Logic](http://csl16.lif.univ-mrs.fr/), Marseille, FR, Aug 29--Sep 1.  
-+ [ISSAC: International Symposium on Symbolic and Algebraic Computation](http://www.issac-symposium.org/2016/), Waterloo, CA, Jul 19--22.  
-+ [ICALP: International Colloqium on Automata, Languages, and Programming](http://www.easyconferences.eu/icalp2016/index.html), Rome, IT, Jul 11--15.  
-+ [CiE: Computability in Europe](https://lipn.univ-paris13.fr/CIE2016/index.php), Paris, FR, Jun 27--Jul 1.  
-+ [FSCD: Formal Structures for Computation and Deduction](http://fscd2016.dcc.fc.up.pt/fscd2016/statement/), Porto, Portugal, Jun 22--26.  
-+ [International Conference on Model Theory](https://www3.nd.edu/~cmnd/programs/cmnd2016/conference/index.html), Notre Dame, USA, Jun 20--24.  
-+ [STOC: 48th ACM Symposium on Theory of Computing](http://acm-stoc.org/stoc2016/callforpapers.html), Cambridge, USA, Jun 18--21.  
-+ [CCC: Computational Complexity Conference](http://www.al.ics.saitama-u.ac.jp/elc/ccc/), Tokyo, JN, May 29--Jun 1.  
-+ [TYPES: 22nd International Conference on Types for Proofs & Programs](http://www.types2016.uns.ac.rs/), Novi Sad, Serbia, May 23--26.  
-+ [Homotopy Type Theory & Univalent Foundations Workshop](http://www.fields.utoronto.ca/programs/scientific/15-16/homotopy-type/), Fields Inst., May 16--20.  
-+ [ASL North American Annual Meeting](http://asl2016.logic.uconn.edu/), Storrs, CT, USA, May 23--26.  
-+ [ASL Winter Meeting](http://www.apaonline.org/events/event_details.asp?id=322904), Chicago, USA, Mar 2--5.  
++ [AMS Special Session Algebraic Logic](http://www.ams.org/meetings/sectional/2235_program_ss1.html#title) Denver, USA, Oct 8--9.  
++ [ICFP: International Conference on Functional Programming](http://conf.researchr.org/home/icfp-2016) Nara, JP, Sep 18--24.  
++ [ESSLLI: European Summer School: Logic, Language, and Information](http://esslli2016.unibz.it/) Free Univ. Bozen-Bolzano, IT, Aug 15--26.  
++ [ASL Summer Meeting--Logic Colloquium](http://www.lc2016.leeds.ac.uk/home.html) Univ. Leeds, UK, Jul 31--Aug 6.  
++ [25th EACSL Conf on Computer Science Logic](http://csl16.lif.univ-mrs.fr/) Marseille, FR, Aug 29--Sep 1.  
++ [ISSAC: International Symposium on Symbolic and Algebraic Computation](http://www.issac-symposium.org/2016/) Waterloo, CA, Jul 19--22.  
++ [ICALP: International Colloqium on Automata, Languages, and Programming](http://www.easyconferences.eu/icalp2016/index.html) Rome, IT, Jul 11--15.  
++ [CiE: Computability in Europe](https://lipn.univ-paris13.fr/CIE2016/index.php) Paris, FR, Jun 27--Jul 1.  
++ [FSCD: Formal Structures for Computation and Deduction](http://fscd2016.dcc.fc.up.pt/fscd2016/statement/) Porto, Portugal, Jun 22--26.  
++ [International Conference on Model Theory](https://www3.nd.edu/~cmnd/programs/cmnd2016/conference/index.html) Notre Dame, USA, Jun 20--24.  
++ [STOC: 48th ACM Symposium on Theory of Computing](http://acm-stoc.org/stoc2016/callforpapers.html) Cambridge, USA, Jun 18--21.  
++ [CCC: Computational Complexity Conference](http://www.al.ics.saitama-u.ac.jp/elc/ccc/) Tokyo, JN, May 29--Jun 1.  
++ [TYPES: 22nd International Conference on Types for Proofs & Programs](http://www.types2016.uns.ac.rs/) Novi Sad, Serbia, May 23--26.  
++ [Homotopy Type Theory & Univalent Foundations Workshop](http://www.fields.utoronto.ca/programs/scientific/15-16/homotopy-type/) Fields Inst., May 16--20.  
++ [ASL North American Annual Meeting](http://asl2016.logic.uconn.edu/) Storrs, CT, USA, May 23--26.  
++ [ASL Winter Meeting](http://www.apaonline.org/events/event_details.asp?id=322904) Chicago, USA, Mar 2--5.  
 + [STACS: 33rd International Symposium on Theoretical Aspects of Computer Science](http://www.stacs-conf.org/) Orléans, FR, Feb 17--20.  
 + [LFCS: Symposium on Logical Foundations Of Comp Sci](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
 
