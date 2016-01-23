@@ -1,6 +1,6 @@
 # Conferences
 
-Conferences in algebra, logic, and computer science.
+### Conferences in algebra, logic, and computer science.
 
 This page lists a selection of conferences that may be of interest to 
 researchers in the areas of algebra, logic, and theoretical computer science.
@@ -25,11 +25,13 @@ Links to these are found at the [bottom of this page](#other-conference-lists).
 + [International Conference on Model Theory](https://www3.nd.edu/~cmnd/programs/cmnd2016/conference/index.html) Notre Dame, USA, Jun 20--24.  
 + [STOC: 48th ACM Symposium on Theory of Computing](http://acm-stoc.org/stoc2016/callforpapers.html) Cambridge, USA, Jun 18--21.  
 + [CCC: Computational Complexity Conference](http://www.al.ics.saitama-u.ac.jp/elc/ccc/) Tokyo, JN, May 29--Jun 1.  
++ [AAA: 92nd Workshop on General Algebra](http://aaa.karlin.mff.cuni.cz/), Prague, CZ, May 27--29.
 + [TYPES: 22nd International Conference on Types for Proofs & Programs](http://www.types2016.uns.ac.rs/) Novi Sad, Serbia, May 23--26.  
 + [Homotopy Type Theory & Univalent Foundations Workshop](http://www.fields.utoronto.ca/programs/scientific/15-16/homotopy-type/) Fields Inst., May 16--20.  
 + [ASL North American Annual Meeting](http://asl2016.logic.uconn.edu/) Storrs, CT, USA, May 23--26.  
 + [ASL Winter Meeting](http://www.apaonline.org/events/event_details.asp?id=322904) Chicago, USA, Mar 2--5.  
 + [STACS: 33rd International Symposium on Theoretical Aspects of Computer Science](http://www.stacs-conf.org/) Orléans, FR, Feb 17--20.  
++ [AAA: 91st Workshop on General Algebra](http://ameql.math.muni.cz/en/AAA91), Brno, CZ, Feb 5--7.  
 + [LFCS: Symposium on Logical Foundations Of Comp Sci](http://lfcs.info/) Deerfield Beach, FL, USA, Jan 4--7.
 
 ## 2015
