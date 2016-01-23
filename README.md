@@ -2,11 +2,11 @@
 
 ### Conferences in algebra, logic, and computer science.
 
-This page lists a selection of conferences that may be of interest to 
+This page is a list of some conferences that may be of interest to 
 researchers in the areas of algebra, logic, and theoretical computer science.
 This is not an official or comprehensive list.
-Broader and more comprehensive lists can be found elsewhere.
-Links to these are found at the [bottom of this page](#other-conference-lists).
+Broader and more comprehensive lists can be found elsewhere (such as
+the websites listed at the [bottom of this page](#other-conference-lists)).
 
 ## 2017
 + [Mathematical Logic: Proof Theory, Constructive Mathematics](http://www.mfo.de/www/schedule/2017/all) Oberwolfach, DE, Nov 5--11.
