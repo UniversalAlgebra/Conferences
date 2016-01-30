@@ -88,5 +88,6 @@ Braga, Portugal, Sep 28--Oct 02.
 + [COMS: Algebra](http://www.conference-service.com/conferences/algebra.html)
 + [COMS: Mathematical Logic](http://www.conference-service.com/conferences/logic.html)
 + [Logic Related Conferences](http://www2.informatik.hu-berlin.de/~lics/logic-confs/index.html)
-+ [A list of conferences in theoretical computer science](http://cstheory.stackexchange.com/questions/7900/list-of-tcs-conferences-and-workshops)
-<!-- + [Peter Jipsen's List](https://googledrive.com/host/0BxA1GnxVACojZWEtY0NCMzhSbjg/noteworthy.html) -->
++ [A list of conferences in theoretical computer science](http://cstheory.stackexchange.com/questions/7900/list-of-tcs-conferences-and-workshops)  
++ [Peter Jipsen's List](https://googledrive.com/host/0BxA1GnxVACojZWEtY0NCMzhSbjg/noteworthy.html)
++ [Conference rankings](http://portal.core.edu.au/conf-ranks/)
