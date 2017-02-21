@@ -22,7 +22,7 @@ the websites listed at the [bottom of this page](#other-conference-lists)).
 + [Topology, Algebra, & Categories in Logic (TACL)](http://www.cs.cas.cz/tacl2017/) conference: Prague, CZ, Jun 26--30.  
 + [Topology, Algebra, & Categories in Logic (TACL)](http://www.cs.cas.cz/tacl2017/) school: Olomouc, CZ, Jun 20--24.  
 + [32nd ACM/IEEE Symp on Logic in Computer Science (LICS)](http://lics.rwth-aachen.de/lics17/) Reykjavik, IS Jun 20--23.  
-+ [Women in Logic Workshop (WiL)](https://sites.google.com/site/firstwomeninlogicworkshop/) Rykjavik, IS, Jun 19.  
++ [Women in Logic Workshop (WiL)](https://sites.google.com/site/firstwomeninlogicworkshop/) Reykjavik, IS, Jun 19.  
 + [AAA: 94th Workshop on General Algebra](https://sites.dmi.uns.ac.rs/aaa94nsac2017) Novi Sad, RS, Jun 15--18.  
 + [7th Intl Conf on Algebra and Coalgebra in CS (CALCO)](http://coalg.org/calco17/) Ljubljana, SI, Jun 13--16.  
 + [AMS Mathematical Research Community on Homotopy Type Theory](http://www.ams.org/programs/research-communities/2017MRC-1) Snowbird, US, Jun 4--10.  
