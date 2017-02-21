@@ -19,8 +19,8 @@ the websites listed at the [bottom of this page](#other-conference-lists)).
 + [ASL Logic Colloquium](https://www.lc17.conf.kth.se/) Stockholm, SE, Aug 14--20.  
 + [Third Nordic Logic Summer School (NLS)](https://www.sls17.conf.kth.se/) Stockholm, SE, Aug 7--11.  
 + [Problems Allied to UA and Model Theory](http://uamt.conf.nstu.ru/indexeng.htm) Novosibirsk, RU, Jun 23--29.  
-+ [Topology, algebra, & categories in logic (TACL)](http://www.cs.cas.cz/tacl2017/) conference: Prague, CZ, Jun 26--30.  
-+ [Topology, algebra, & categories in logic (TACL)](http://www.cs.cas.cz/tacl2017/) school: Olomouc, CZ, Jun 20--24.  
++ [Topology, Algebra, & Categories in Logic (TACL)](http://www.cs.cas.cz/tacl2017/) conference: Prague, CZ, Jun 26--30.  
++ [Topology, Algebra, & Categories in Logic (TACL)](http://www.cs.cas.cz/tacl2017/) school: Olomouc, CZ, Jun 20--24.  
 + [32nd ACM/IEEE Symp on Logic in Computer Science (LICS)](http://lics.rwth-aachen.de/lics17/) Reykjavik, IS Jun 20--23.  
 + [Women in Logic Workshop (WiL)](https://sites.google.com/site/firstwomeninlogicworkshop/) Rykjavik, IS, Jun 19.  
 + [AAA: 94th Workshop on General Algebra](https://sites.dmi.uns.ac.rs/aaa94nsac2017) Novi Sad, RS, Jun 15--18.  
