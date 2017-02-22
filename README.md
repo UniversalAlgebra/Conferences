@@ -10,26 +10,27 @@ the websites listed at the [bottom of this page](#other-conference-lists)).
 
 ## 2017
 + [Mathematical Logic: Proof Theory, Constructive Mathematics](http://www.mfo.de/www/schedule/2017/all) Oberwolfach, DE, Nov 5--11.  
-+ [8th Intl Conf on Interactive Theorem Proving (ITP)](http://itp2017.cic.unb.br) Brasilia, BR, Sep 26--29.  
-+ [22nd ACM SIGPLAN Intl Conf on Functional Programming (ICFP)](http://icfp17.sigplan.org/) Oxford, UK, Sep 4--6.  
++ [ITP: 8th Intl Conf on Interactive Theorem Proving](http://itp2017.cic.unb.br) Brasilia, BR, Sep 26--29.  
++ [ICFP: 22nd ACM SIGPLAN Intl Conf on Functional Programming](http://icfp17.sigplan.org/) Oxford, UK, Sep 4--6.  
 + [The 55th Summer School on Algebra and Ordered Sets](http://www.ssalgebra2017.tk/) High Tatras, SK, Sep 3--8.  
-+ [Formal Structures for Computation and Deduction (FSCD)](http://fscdconference.org/) Oxford, UK, Sep 3--6.  
-+ [Intl Symposium on Math Foundations of CS (MFCS)](http://mfcs2017.cs.aau.dk/) Aalborg, DK, Aug 21--25.  
-+ [26th EACSL Conf on Computer Science Logic (CSL)](https://www.csl17.conf.kth.se) Stockholm, SE, Aug 20--24.  
++ [FSCD: Formal Structures for Computation and Deduction](http://fscdconference.org/) Oxford, UK, Sep 3--6.  
++ [MFCS: Intl Symposium on Math Foundations of CS](http://mfcs2017.cs.aau.dk/) Aalborg, DK, Aug 21--25.  
++ [CSL: 26th EACSL Conf on Computer Science Logic](https://www.csl17.conf.kth.se) Stockholm, SE, Aug 20--24.  
 + [ASL Logic Colloquium](https://www.lc17.conf.kth.se/) Stockholm, SE, Aug 14--20.  
-+ [Third Nordic Logic Summer School (NLS)](https://www.sls17.conf.kth.se/) Stockholm, SE, Aug 7--11.  
++ [NLS: Third Nordic Logic Summer School](https://www.sls17.conf.kth.se/) Stockholm, SE, Aug 7--11.  
 + [Problems Allied to UA and Model Theory](http://uamt.conf.nstu.ru/indexeng.htm) Novosibirsk, RU, Jun 23--29.  
-+ [Topology, Algebra, & Categories in Logic (TACL)](http://www.cs.cas.cz/tacl2017/) conference: Prague, CZ, Jun 26--30.  
-+ [Topology, Algebra, & Categories in Logic (TACL)](http://www.cs.cas.cz/tacl2017/) school: Olomouc, CZ, Jun 20--24.  
-+ [32nd ACM/IEEE Symp on Logic in Computer Science (LICS)](http://lics.rwth-aachen.de/lics17/) Reykjavik, IS Jun 20--23.  
-+ [Women in Logic Workshop (WiL)](https://sites.google.com/site/firstwomeninlogicworkshop/) Reykjavik, IS, Jun 19.  
++ [TACL: Topology, Algebra, & Categories in Logic](http://www.cs.cas.cz/tacl2017/) conference: Prague, CZ, Jun 26--30.  
++ [TACL: Topology, Algebra, & Categories in Logic](http://www.cs.cas.cz/tacl2017/) school: Olomouc, CZ, Jun 20--24.  
++ [LICS: 32nd ACM/IEEE Symp on Logic in Computer Science](http://lics.rwth-aachen.de/lics17/) Reykjavik, IS Jun 20--23.  
++ [WiL: Women in Logic Workshop](https://sites.google.com/site/firstwomeninlogicworkshop/) Reykjavik, IS, Jun 19.  
 + [AAA: 94th Workshop on General Algebra](https://sites.dmi.uns.ac.rs/aaa94nsac2017) Novi Sad, RS, Jun 15--18.  
-+ [7th Intl Conf on Algebra and Coalgebra in CS (CALCO)](http://coalg.org/calco17/) Ljubljana, SI, Jun 13--16.  
++ [CALCO: 7th Intl Conf on Algebra and Coalgebra in CS](http://coalg.org/calco17/) Ljubljana, SI, Jun 13--16.  
 + [AMS Mathematical Research Community on Homotopy Type Theory](http://www.ams.org/programs/research-communities/2017MRC-1) Snowbird, US, Jun 4--10.  
-+ [16th Intl Conf on Relational and Algebraic Methods in CS (RAMiCS)](http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/index.html) Lyon, FR, May 15--19.  
++ [ISMVL: IEEE Intl Symp on Multiple-Valued Logic](http://www.mvl.jpn.org/ISMVL2017/) Novi Sad, RS, May 22--24.  
++ [RAMiCS: 16th Intl Conf on Relational and Algebraic Methods in CS](http://www.ens-lyon.fr/LIP/PLUME/RAMiCS17/index.html) Lyon, FR, May 15--19.  
 + [AMS Special Session on Algebras, Lattices, Varieties](http://www.ams.org/meetings/sectional/2228_program.html) Charleston, US, Mar 10--12.  
 + [AAA: 93rd Workshop on General Algebra](https://www.wirtschaft.bfh.ch/de/forschung/e_government_institut/veranstaltungen/aaa93.html) Bern, SU, Feb 10--12.  
-+ [44th ACM SIGPLAN Symp on Principles of Programming Languages (POPL)](http://popl17.sigplan.org/home) Paris, FR, Jan 15--21.
++ [POPL: 44th ACM SIGPLAN Symp on Principles of Programming Languages](http://popl17.sigplan.org/home) Paris, FR, Jan 15--21.
 
 ## 2016
 + [AMS Special Session Algebraic Logic](http://www.ams.org/meetings/sectional/2235_program_ss1.html#title) Denver, US, Oct 8--9.  
@@ -62,13 +63,13 @@ Braga, Portugal, Sep 28--Oct 02.
 + [Intl Conference on Functional Programming](http://icfpconference.org/icfp2015/index.html) Vancouver, CA, Aug 31--Sep 2.  
 + [Domains XII](http://booleconferences.ucc.ie/gbmsc2015/domainsxii) Cork, IE, Aug 25--28.  
 + [Workshop on Logic, Language and Information](http://www.indiana.edu/~iulg/wollic/index.htm) Bloomington, US, Jul 20--23.  
-+ [Logic in Comp Sci (LICS)](http://lics.rwth-aachen.de/lics15/) Kyoto, JN, Jul 6--10.  
-+ [Typed Lambda Calculi and Applications (TLCA)](http://rdp15.mimuw.edu.pl/index.php?site=tlca) Warsaw, PL, Jul 1--Jul 3.  
++ [(LICS) Logic in Comp Sci](http://lics.rwth-aachen.de/lics15/) Kyoto, JN, Jul 6--10.  
++ [(TLCA) Typed Lambda Calculi and Applications](http://rdp15.mimuw.edu.pl/index.php?site=tlca) Warsaw, PL, Jul 1--Jul 3.  
 + [Workshop on Homotopy Type Theory](http://hott-uf.gforge.inria.fr/) Warsaw, PL, Jun 29--30.  
 + [Algebra and Coalgebra in Comp Sci](http://coalg.org/calco15/) Nijmegen, NL, Jun 24--26.  
 + [Mathematical Foundations of Programming Semantics](http://events.cs.bham.ac.uk/mfps31/?lang=en) Nijmegen, NL, Jun 22--25.  
-+ [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, IT Jun 21--26.  
-+ [Topology, Algebra, and Categories in Logic (TACL)](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, IT Jun 15--19.  
++ [(TACL) Topology, Algebra, and Categories in Logic](http://logica.dmi.unisa.it/tacl/) Conference, Ischia Island, IT Jun 21--26.  
++ [(TACL) Topology, Algebra, and Categories in Logic](http://logica.dmi.unisa.it/tacl/) Summer School, Salerno, IT Jun 15--19.  
 + [BLAST 2015](http://math.unt.edu/BLAST2015%40UNT) Denton, US, Jun 8-12, 2015.  
 + [AAA90: Workshop on General Algebra](http://sites.dmi.uns.ac.rs/aaa90/) Novi Sad, RS, Jun 4--7.  
 + [Open Problems in Universal Algebra](http://www.math.vanderbilt.edu/~moorm10/shanks/) Nashville, US, May 28--Jun 1.  
@@ -81,11 +82,11 @@ Braga, Portugal, Sep 28--Oct 02.
 + [Vienna Summer of Logic](http://vsl2014.at/) Vienna, AT Jul 9--24.  
 	- [Logic Colloquium](http://www.logic.at/lc2014/) Jul 14--19.  
 	- [Logic, Algebra and Truth Degrees](http://www.logic.at/latd2014/) Jul 16--19.
-    - [Computer Science Logic (CSL) and Logic in Computer Science (LICS)](http://lii.rwth-aachen.de/lics/csl-lics14/) Jul 14--18.  
+    - [(CSL) Computer Science Logic and Logic in Computer Science (LICS)](http://lii.rwth-aachen.de/lics/csl-lics14/) Jul 14--18.  
     - [Typed Lambda Calculi and Applications](http://vsl2014.at/pages/RTATLCA-cfp.html) Jul 14--17.  
     - [Workshop on Unification](http://vsl2014.at/pages/UNIF-index.html) Jul 13.  
     - [Coq Workshop](http://vsl2014.at/pages/Coq-index.html) Jul 18.  
-    - [International Joint Conference on Automated Reasoning (IJCAR)](http://cs.nyu.edu/ijcar2014/) Jul 19--22.  
+    - [(IJCAR) International Joint Conference on Automated Reasoning](http://cs.nyu.edu/ijcar2014/) Jul 19--22.  
 + [International Algebraic Conference: Kaluzhnin Memorial](http://kaluzhnin-conf.incarne.net/) Kyiv, UA Jul 7--12.  
 + [Algebra, Geometry and Computation](http://www.win.tue.nl/~hansc/agc2014/index.html) Eindhoven, NL Jul 2--4.  
 + [Algebras and Clones fest](http://www.karlin.mff.cuni.cz/~alc2014/) Prague, CZ Jun 30--Jul 3.  
